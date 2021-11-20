@@ -1,17 +1,7 @@
 # contador
 
-A new Flutter project.
+![Screenshot_1637429514](https://user-images.githubusercontent.com/62524570/142733893-ec03990c-8cfe-40d8-a9e8-e352e16125d0.png)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# contador" 
+![Screenshot_1637429518](https://user-images.githubusercontent.com/62524570/142733895-e23bc810-dd91-4366-b10f-7de2480dc9d6.png)
+![Screenshot_1637429522](https://user-images.githubusercontent.com/62524570/142733897-a5d24743-b94f-4063-9036-b5e4ba556b15.png)
